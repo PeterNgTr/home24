@@ -1,0 +1,3 @@
+endpoint:
+ listing_product: https://s3-eu-west-1.amazonaws.com/catalog-shared/automation-test-task/moebel.json
+ detailed_product: https://s3-eu-west-1.amazonaws.com/catalog-shared/automation-test-task/kinx.json
